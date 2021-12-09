@@ -17,6 +17,7 @@
   left: 20px;
   width: 180px;
   object-fit: contain;
+  cursor: pointer;
 }
 
 .nav__avatar {
@@ -24,6 +25,7 @@
   right: 20px;
   width: 30px;
   object-fit: contain;
+  cursor: pointer;
 }
 
 .nav__black {
